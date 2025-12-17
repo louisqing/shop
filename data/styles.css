@@ -12,6 +12,15 @@
 }
 .box_1 {
 }
+._形状 {
+  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial', sans-serif;
+  font-weight:700;
+  font-style:normal;
+  font-size:20px;
+  color:#4EDB7C;
+}
+._形状1 {
+}
 ._一级标题 {
   font-family:'ArialMT', 'Arial', sans-serif;
   font-weight:bold;
@@ -98,6 +107,9 @@
 }
 .droplist {
   color:#000000;
+  text-align:left;
+}
+.checkbox {
   text-align:left;
 }
 .primary_button {
